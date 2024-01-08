@@ -1,4 +1,4 @@
 # My-restaurant
+![MY wireframe img](../myrestaurant.PNG)
 
-![My wirframe img](<../my restaurant.PNG>)
 
