@@ -1,3 +1,3 @@
 # My-restaurant
 
-![My wireframe img](../myrestaurant.PNG)
+![My wireframe img](./myrestaurant.PNG)
